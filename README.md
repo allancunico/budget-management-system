@@ -4,6 +4,12 @@ Web application developed to replace a manual budgeting process in an electrical
 
 ---
 
+## Notice
+
+Due to company confidentiality requirements, the source code is not publicly available. This repository contains project documentation, architecture details, screenshots and technical information about the solution.
+
+---
+
 ## Features
 
 * Multiple users operating simultaneously without conflicts
